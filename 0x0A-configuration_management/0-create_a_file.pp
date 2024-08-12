@@ -1,3 +1,4 @@
+#creating a file in /tmp using puppet
 file { 'codekartel':
   path    => '/tmp/school',
   mode    => '0744',
