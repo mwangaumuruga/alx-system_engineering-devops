@@ -1,4 +1,5 @@
 https://www.youtube.com/watch?v=SNeZEaj8FWI
+// SCP for secure copy
 scp -i key dummy  ubuntu@35.153.18.12:/home/ubuntu
 
 What is the main role of a web server
